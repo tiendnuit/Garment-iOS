@@ -38,6 +38,9 @@ And splitting off protocols (DataSource and Delegate) into separate objects we c
         XCTAssertEqual(count, items.count)
     }
     
+## Usage
+To run the project, clone the repo, and run `pod install` from the project directory first.
+
 ## Next Features
 - Make UI with SwiftUI
 
