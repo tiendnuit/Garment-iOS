@@ -1,0 +1,6 @@
+framework module Pods_Garment_iOS_Garment_iOSUITests {
+  umbrella header "Pods-Garment-iOS-Garment-iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
